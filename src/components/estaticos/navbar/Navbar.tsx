@@ -9,12 +9,12 @@ function Navbar() {
     <>
       <AppBar
         position="static"
-        style={{ background: "#74849C", color: "#F2F2F2" }}
+        style={{ background: "#ed7e39", color: '#f2f2f2'}}
       >
         <Toolbar variant="dense">
           <Box style={{ cursor: "default" }}>
             <Typography variant="h5" color="inherit">
-              BlogPessoal //
+              BlogPessoal
             </Typography>
           </Box>
 
