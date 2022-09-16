@@ -1,24 +1,22 @@
-.MuiTypography-subtitle2 {
-  font-family: 'Source Sans Pro', sans-serif !important;
+.box1 {
+  height: 120px;
+  background-color: #c95314;
 }
 
-.footer-container {
-  background-color: #ed7e39 !important;
-  color: #F2F2F2 !important;
-  height: 120px !important;
-}
-
-.footer-container-2 {
-  background-color: #e37531;
+.box2 {
   height: 60px;
-}
-
-.texto {
-  color: #F2F2F2;
+  background-color: #c95314;
 }
 
 .redes {
-  font-size: 50px !important;
-  color: #F2F2F2 !important;
-  height: 50px !important;
+  font-size: 60px !important;
+  color: #ffffff;
+}
+
+.textosFooter {
+  color: #ffffff;
+}
+
+.text-decorator-none {
+  text-decoration: none !important;
 }

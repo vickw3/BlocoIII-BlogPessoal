@@ -1,8 +1,12 @@
+.box {
+  background-color: #c95314 !important;
+}
+
 .cursor {
-    cursor: pointer;
-    color: #F2F2F2;
-  }
-  
-  .text-decorator-none {
-    text-decoration: none;
-  }
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.text-decorator-none {
+  text-decoration: none;
+}
