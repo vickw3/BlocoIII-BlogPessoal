@@ -50,7 +50,7 @@ function Home() {
                     </Box>
                 </Grid>
                 <Grid item xs={6} >
-                    <img src='https://i.imgur.com/RCs7Nyv.png' alt='Bob esponja pensativo'  height='500px'/>
+                    <img src='https://as2.ftcdn.net/v2/jpg/01/36/70/67/1000_F_136706734_KWhNBhLvY5XTlZVocpxFQK1FfKNOYbMj.jpg' alt='Happy Face'  height='500px'/>
                 </Grid>
                 <Grid xs={12} className='postagens'>
                     <TabPostagem />
