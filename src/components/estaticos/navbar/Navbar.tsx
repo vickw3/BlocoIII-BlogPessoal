@@ -31,9 +31,9 @@ function Navbar() {
         navigate('/login')
     }
 
-    let navbarComponet
+    let navbarComponent
     if (token !== '') {
-        navbarComponet = <AppBar position='static' className='box'>
+        navbarComponent = <AppBar position='static' className='box'>
             <Toolbar variant='dense'>
                 <Box className='cursor' >
                     <Typography variant='h5' color='inherit'>
@@ -83,7 +83,7 @@ function Navbar() {
 
     return (
         <>
-            {navbarComponet}
+            {navbarComponent}
         </>
     )
 }
