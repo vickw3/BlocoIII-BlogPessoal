@@ -1,31 +1,22 @@
-.container {
-    background-color: #f9af88 !important;
-    min-height: 100vh;
-  }
-  
-  .btn {
-    background: #fc7932 !important;
-    border: none !important;
-    color: #F2F2F2 !important;
-  }
-  
-  .postagens {
-    background-color: #F2F2F2;
-  }
-  
-  .titulo-h3, .titulo-h5 {
-    font-family: 'Source Sans Pro', sans-serif !important;
-    font-weight: 'bold' !important;
-    color: #F2F2F2 !important;
-  }
-  
-  .MuiTypography-h6 {
-    font-family: 'Source Sans Pro', sans-serif !important;
-    font-weight: 400 !important;
-    color: #F2F2F2 !important;
-  }
-  
-  .MuiButton-root {
-    font-family: 'Source Sans Pro', sans-serif !important;
-    letter-spacing: 1px !important;
-  }
+.caixa {
+  background-color: #7d1919b1;
+}
+
+.titulo {
+  font-weight: bold !important;
+  color: #ffffff !important;
+}
+
+.botao {
+  color: #ffffff !important;
+  border-color: #ffffff !important;
+  background-color: #7d1919;
+}
+
+.postagens {
+  background-color: #ffffff;
+}
+
+.text-decorator-none {
+  text-decoration: none;
+}
